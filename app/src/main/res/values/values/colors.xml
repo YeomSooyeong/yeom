@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "noColor">#00ffffff</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors related to magazine -->
+    <color name = "mgz_basic_background" > #ffc3d69c</color>
+    <color name = "mgz_main_title_color" > #bb3e570b</color>
+
+    <color name = "mgz_main_search_view_background" > #576b8127</color>
+
+    <!--은현 추가  테스트용-->
+    <color name= "colorPrimary2">#0488d1</color>
+    <color name="colorPrimaryDark2">#0477bd</color>
+    <color name="colorAccent2">#FF4081</color>
+    <color name="graycolor2">#c2c2c2</color>
+    <!--은현 추가  테스트용 (drawable-> input_outline.xml 에서 사용) -->
+</resources>

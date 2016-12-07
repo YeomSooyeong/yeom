@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Test_12_02</string>
+
+
+
+    <!-- Strings related to magazine -->
+    <string name="mgz_tab_news">news</string>
+    <string name="mgz_tab_student">대원</string>
+    <string name="mgz_tab_instructor">지도자</string>
+    <string name="mgz_tab_group">연맹</string>
+
+    <string name="mgz_main_title"> Girl Scout Seoul Magazine</string>
+    <string name="mgz_published_date_test">2016 봄</string>
+
+    <string name="mgz_head_test"> test</string>
+
+    <!-- Strings related to home -->
+    <string name="home_btn_to_mgz">연맹지</string>
+    <string name="home_to_info">info</string>
+    <string name="home_to_mgz">mgz</string>
+    <string name="home_to_home">home</string>
+    <string name="home_to_board">board</string>
+    <string name="home_to_more">more</string>
+</resources>
